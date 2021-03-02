@@ -17,9 +17,9 @@
 - 👯 _Estou procurando colaborar com todos que precisarem, mesmo com o pouco conhecimento que eu tenho._  
 * 🤔 _Também procuro ajuda em aprender cada vez mais Python e Ciência de dados e tudo relacionado a linguagem de programação._  
 
-* 📫 Estou nas mídias sociais como:  
-<a href="https://www.linkedin.com/in/seu_usuário"><img src="https://github.com/jenniferstefaniks/jennistefaniks/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/jennystefanis/)  
-<a href="https://www.linkedin.com/in/seu_usuário"><img src="https://github.com/jenniferstefaniks/jennistefaniks/facebook.png" width="16"></img></a> [Facebook](https://www.facebook.com/jeeh.stefani.7) |  
+* 📫 Estou nas mídias sociais como:    
+<a href="https://www.linkedin.com/in/seu_usuário"><img src="https://github.com/jenniferstefaniks/jennistefaniks/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/jennystefanis/ "Instagram")  
+<a href="https://www.linkedin.com/in/seu_usuário"><img src="https://github.com/jenniferstefaniks/jennistefaniks/facebook.png" width="16"></img></a> [Facebook](https://www.facebook.com/jeeh.stefani.7 "Facebook") |  
 
 
 - ⚡ Curiosidades: 
