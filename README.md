@@ -17,5 +17,7 @@
 - ⚡ Curiosidades: 
     * Sou apaixonada por tecnologias e tudo envolvido a ela.
     * Amo personalização, tudo que é modificável ao meu gosto.
-    * Minha nova meta é aprender Machine Learning.
+    * Minhas novas metas é:
+    ** Aprender a Desenvolver Sites (fullstack)
+      
         
